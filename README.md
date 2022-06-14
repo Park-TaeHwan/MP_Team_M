@@ -34,6 +34,6 @@ Mp_Team_M_Project
 * In Java file, there are fucntions to activate the xml and firebase files. You can handle it.
 * In Manifests files and build.gradle.app file, you can add other firebase function if you want to choose more.
 
-# eference
+# Reference
 * Using Firebase: https://firebase.google.com/docs/
 * Using Camera function: https://github.com/googlearchive/android-Camera2Basic
